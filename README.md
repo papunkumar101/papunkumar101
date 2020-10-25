@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on web development🥰
+- 🔭 I’m currently working on best fullstack developer🥰
 - 🌱 I’m currently learning JavaScript😍
 - 👯 I’m looking to collaborate on Devlopyerd group👨‍👨‍👦‍👦
 - 🤔 I’m looking for help with my project development ❤️
