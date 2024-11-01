@@ -13,5 +13,5 @@
 - 💬 Docker, AWS
 - 💬 REST APIs, Auth functionality and Payment gatway
 - 💬 HTML, CSS, JS, jQuery, Ajax, Bootstrap
-    ..Thank You..
+-   ..Thank You..
 
